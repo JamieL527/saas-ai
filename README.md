@@ -1,4 +1,4 @@
-# Build a SaaS AI Platform with Next.js, React, Tailwind, Prisma, Stripe 
+# A SaaS AI Platform with Next.js, React, Tailwind, Prisma, Stripe 
 
 This is a repository for Build a SaaS AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe 
 
@@ -17,9 +17,5 @@ Features:
 - Page loading state
 - Stripe monthly subscription
 - Free tier with API limiting
-- How to write POST, DELETE, and GET routes in route handlers (app/api)
-- How to fetch data in server react components by directly accessing database (WITHOUT API! like Magic!)
-- How to handle relations between Server and Child components!
-- How to reuse layouts
-- Folder structure in Next 13 App Router
+
 
